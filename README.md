@@ -1,4 +1,4 @@
-# ME-F376
+# ArUco Cube Detection
 
-Design Oriented Project for Photogrammetry, OpenCV
+
 
