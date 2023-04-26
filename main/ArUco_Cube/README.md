@@ -1,10 +1,3 @@
-//
-
-
-
-
-//
-
 Acquisition.py - Takes images every few seconds until program is interrupted. Hold the chessboard up and move it around for different angles of pictures to be saved.
 
 Cal_Image - Stores chessboard images.
